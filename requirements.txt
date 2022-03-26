@@ -3,3 +3,7 @@ Create Home page
 Create Registartion
 Create contact us
 Create about us
+
+Add Emoji
+Interactive Videos 
+dark theme
